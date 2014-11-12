@@ -1,0 +1,6 @@
+<material>
+    <technique name="Techniques/DiffUnlit.xml"/>
+	<texture unit="diffuse" name="Textures/block_dirt.png" >
+        <filter mode="nearest" />
+    </texture>
+</material>
